@@ -58,7 +58,8 @@ Answer:
 query = "What are the key clauses in this document?"
 print(answer_with_gemini(query))
 
-# genai.configure(api_key="AIzaSyDwY1Xeq9MXc_qJUyfQ0-cfjQVvZbzUTuY")
+# genai.configure(api_key="Your_Google_API_Key")
 # models = genai.list_models()
 # for m in models:
+
 #     print(m.name, m.supported_generation_methods)
